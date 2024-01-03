@@ -46,3 +46,4 @@ def langsom_funktion():
 
 # Brug af dekoreret funktion
 langsom_funktion()
+
